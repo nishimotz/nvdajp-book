@@ -1,4 +1,6 @@
 ---
+layout: default
+title: NVDA 日本語版ガイドブック
 ---
 
 # NVDA 日本語版ガイドブック
