@@ -5,7 +5,7 @@ title: NVDA 日本語版ガイドブック
 
 # NVDA 日本語版ガイドブック
 
-第5版 2015年8月xx日
+第5版 2015年8月6日
 
 NVDA 日本語チーム 西本卓也
 
@@ -258,6 +258,9 @@ Windows+T でタスクバー（実行中のアプリケーション）にフォ�
 マイクロソフト製品のアクセシビリティ機能
 
 - http://www.microsoft.com/ja-jp/enable/products/default.aspx
+
+なお、Windows 10 をタブレットモードで使用すると、
+デスクトップに関する説明は上記のとおりではありません。ご注意ください。
 
 
 ### 1.7 入力ヘルプモード
@@ -546,8 +549,12 @@ NVDAキーを押したままピリオド（ラップトップ配列）
 
 ### 2.2 ブラウズモードを使いこなす
 
-ブラウズモードの操作は Internet Explorer や Mozilla Firefox などの
+ブラウズモードの操作は Internet Explorer や Mozilla Firefox, Google Chrome などの
 ウェブブラウザ、Adobe Reader など、さまざまな場面で使えます。
+
+ただし Windows 10 で導入された Microsoft Edge ブラウザは、
+NVDA 2015.3 で実験的に対応されたばかりです。
+
 さきほどブラウズモードでの行や文字単位の移動、
 h で「次の見出し」に移動、といった操作を説明しました。
 アルファベット1文字などの入力による移動を
