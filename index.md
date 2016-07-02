@@ -1183,22 +1183,16 @@ Alt をポンと1回押して離して、左矢印キーを1回押すと、
 Web ブラウザで使用できる Gmail には「標準 HTML 形式」と「簡易 HTML 形式」の2種類のモードがありますが、
 2015年ごろから標準 HTML 形式の Gmail が Firefox と NVDA をサポートするようになりました。
 
-標準 HTML 形式と簡易 HTML 形式
+- [標準 HTML 形式と簡易 HTML 形式](https://support.google.com/mail/answer/15049?hl=ja)
 
-- https://support.google.com/mail/answer/15049?hl=ja
-
-スクリーン リーダーでの Gmail 標準形式の使用
-
-- https://support.google.com/mail/answer/90559?hl=ja
+- [スクリーン リーダーでの Gmail 標準形式の使用](https://support.google.com/mail/answer/90559?hl=ja)
 
 Gmail を使うには Google アカウントが必要です。
 お持ちでない場合はまずアカウントを作成してください。
 メールを受け取ることができる既存のアドレスや生年月日などの個人情報が必要です。
 必須ではありませんがスマートフォンの電話番号などの入力も求められます。
 
-Gmail アドレスの作成
-
-- https://support.google.com/mail/answer/56256?hl=ja
+- [Gmail アドレスの作成](https://support.google.com/mail/answer/56256?hl=ja)
 
 
 #### 3.11.2 Gmail の受信トレイ画面
@@ -1348,10 +1342,7 @@ Gmail のいくつかの操作にはキーボードショートカットが用�
 初期状態から有効になっているショートカットだけでなく、
 設定によって有効化されるスクリーンリーダー用の拡張ショートカット操作もあります。
 
-Gmail のキーボード ショートカット
-
-- https://support.google.com/mail/answer/6594?hl=ja
-
+- [Gmail のキーボード ショートカット](https://support.google.com/mail/answer/6594?hl=ja)
 
 Gmail のショートカットを使いこなすには、NVDA の1文字ナビゲーションとの使い分けを意識する必要があります。
 
