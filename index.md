@@ -104,11 +104,11 @@ NVDA 日本語版は、NVDA 本家版の新しいバージョンが公開され�
 
 NVDA 日本語版は以下のアドレスから直接ダウンロード可能です。
 
-- http://i.nvda.jp
+- [http://i.nvda.jp](http://i.nvda.jp)
 
 詳しい情報は NVDA 日本語チームのサイトからご覧ください。
 
-- https://www.nvda.jp
+- [https://www.nvda.jp](https://www.nvda.jp)
 
 
 #### 1.3.2 NVDAとその他のスクリーンリーダー
@@ -273,9 +273,7 @@ Windows+T でタスクバー（実行中のアプリケーション）にフォ�
 マイクロソフトのサイトには Windows のキーボードショートカットキーの一覧や
 視覚障碍者向け簡易マニュアルがあります：
 
-マイクロソフト製品のアクセシビリティ機能
-
-- http://www.microsoft.com/ja-jp/enable/products/default.aspx
+- [マイクロソフト製品のアクセシビリティ機能](http://www.microsoft.com/ja-jp/enable/products/default.aspx)
 
 なお、Windows 10 をタブレットモードで使用すると、
 デスクトップに関する説明は上記のとおりではありません。ご注意ください。
@@ -569,10 +567,10 @@ NVDAキーを押したままピリオド（ラップトップ配列）
 この「見出しジャンプ」機能と、行単位や文字単位の移動だけでも、
 ひととおりユーザーガイドを読むことができるでしょう。
 
-ここでご紹介した操作はユーザーガイド「5.5. テキストの確認」で
+ここでご紹介した操作はユーザーガイド 5.5. テキストの確認 で
 説明されています。
 
-- http://www.nvda.jp/nvdajp2016.2jp/ja/userGuide.html#ReviewingText
+- [ユーザーガイド 5.5. テキストの確認](http://www.nvda.jp/nvdajp2016.2jp/ja/userGuide.html#ReviewingText)
 
 また、ブラウズモードになっているときに NVDA+1 で入力ヘルプモードに切り替えると、
 ブラウズモードでのキーの機能を知ることができます。
@@ -598,10 +596,10 @@ G で画像にジャンプします。
 
 Shift と一緒に押すと逆方向に移動します。
 
-利用できる操作の一覧はユーザーガイド 6.1. 一文字ナビゲーション を
+利用できる操作の一覧はユーザーガイド 6.1. 1文字ナビゲーション を
 参照してください。
 
-- http://www.nvda.jp/nvdajp2016.2jp/ja/userGuide.html#toc41
+- [ユーザーガイド 6.1. 1文字ナビゲーション](http://www.nvda.jp/nvdajp2016.2jp/ja/userGuide.html#toc41)
 
 テーブルの中では下矢印を押すと１行１列、１行２列、１行３列、のように移動し、
 右端の列から折り返して２行１列、のように進みます。
@@ -755,9 +753,7 @@ NVDA の操作や設定は、すべてのアプリケーションを通じて
 Firefox （ファイヤーフォックス）は NVDA ユーザーにお勧めの Web ブラウザです。
 Firefox は Mozilla （モジラ）という非営利法人によって開発され、無料で公開されています。
 
-Mozilla Japan の Web サイト
-
-- http://www.mozilla.jp/
+- [Mozilla Japan の Web サイト](http://www.mozilla.jp/)
 
 ここに「Firefox 無料ダウンロード」というリンクがあり、
 セットアップのためのファイルをダウンロードできます。
@@ -1942,7 +1938,7 @@ NVDA の「レビューカーソル」は、これらとは独立して動かせ
 
 NVDAメニュー 設定「レビューカーソル」の項目を簡単に紹介します。
 
-- http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc59
+- [設定「レビューカーソル」](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc59)
 
 以下の設定は、Windows のフォーカス、文字カーソル、マウスカーソルが移動したときに
 レビューカーソルを移動させるかどうかを指定します。
@@ -2278,9 +2274,7 @@ NVDA のためのさまざまな機能拡張ツール「アドオン」が入手
 
 アドオンの説明はユーザーガイドの下記をお読みください。
 
-ユーザーガイド 9.3 アドオンマネージャー
-
-- http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc79
+- [ユーザーガイド 9.3 アドオンマネージャー](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc79)
 
 NVDAメニュー ツール「アドオンの管理」で表示される
 「アドオンマネージャー」には、「アドオンを入手」というボタンがあり、
@@ -2293,11 +2287,11 @@ NVDA を実行しているときにアドオンファイルを開く（実行す
 
 現在のフォーカス位置の要素の操作を NVDA+H を押すと説明します：
 
-- http://addons.nvda-project.org/addons/controlUsageAssistant.ja.html
+- [ControlUsageAssistant](http://addons.nvda-project.org/addons/controlUsageAssistant.ja.html)
 
 フォーカス位置とレビューカーソル（オブジェクトナビゲーション）を強調表示します：
 
-- http://addons.nvda-project.org/addons/focusHighlight.ja.html
+- [FocusHighlight](http://addons.nvda-project.org/addons/focusHighlight.ja.html)
 
 NVDA のアドオンはこのほかにも、さまざまなサイトで公開されていますが、
 NVDA の最新版と互換性がないものやライセンスが不明なものも
@@ -2312,7 +2306,7 @@ NVDA の最新版と互換性がないものやライセンスが不明なもの
 
 ### 6.1 Windows タブレット
 
-Windows 8.1 の登場と同時に、Windows を搭載したタブレットが注目を集めはじめました。
+Windows を搭載したタブレットが注目を集めはじめました。
 Windows タブレットは小型・軽量で、バッテリーの持ちもよく、気軽に持ち歩くことができます。
 多くの製品には Microsoft Office が入っています。
 タブレットに着脱式のキーボードを組み合わせてノートPCのように使える機種も登場しています。
@@ -2402,7 +2396,7 @@ notepad というプロファイルを削除すればもとの状態に戻りま
 
 詳しくはユーザーガイド 8.3 をお読みください。
 
-- http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc68
+- [ユーザーガイド 8.3 設定プロファイル](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc68)
 
 
 ## 8 入力ジェスチャー
@@ -2426,9 +2420,7 @@ NVDA メニューの設定「入力ジェスチャー」で自由に変更でき
 
 ユーザーガイドの下記の項も参照してください。
 
-ユーザーガイド 8.1.15. 入力ジェスチャー
-
-- http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc67
+- [ユーザーガイド 8.1.15. 入力ジェスチャー](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc67)
 
 
 ## 9 最後に
