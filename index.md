@@ -1938,7 +1938,7 @@ NVDA の「レビューカーソル」は、これらとは独立して動かせ
 
 NVDAメニュー 設定「レビューカーソル」の項目を簡単に紹介します。
 
-- [設定「レビューカーソル」](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc59)
+- [ユーザーガイド 9.1.8. レビューカーソル設定](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc70)
 
 以下の設定は、Windows のフォーカス、文字カーソル、マウスカーソルが移動したときに
 レビューカーソルを移動させるかどうかを指定します。
@@ -2274,7 +2274,7 @@ NVDA のためのさまざまな機能拡張ツール「アドオン」が入手
 
 アドオンの説明はユーザーガイドの下記をお読みください。
 
-- [ユーザーガイド 9.3 アドオンマネージャー](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc79)
+- [ユーザーガイド 9.3 アドオンマネージャー](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc90)
 
 NVDAメニュー ツール「アドオンの管理」で表示される
 「アドオンマネージャー」には、「アドオンを入手」というボタンがあり、
@@ -2394,9 +2394,9 @@ notepad 以外には反映されません。
 
 notepad というプロファイルを削除すればもとの状態に戻ります。
 
-詳しくはユーザーガイド 8.3 をお読みください。
+詳しくはユーザーガイドをお読みください。
 
-- [ユーザーガイド 8.3 設定プロファイル](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc68)
+- [ユーザーガイド 9.3 設定プロファイル](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc79)
 
 
 ## 8 入力ジェスチャー
@@ -2420,7 +2420,7 @@ NVDA メニューの設定「入力ジェスチャー」で自由に変更でき
 
 ユーザーガイドの下記の項も参照してください。
 
-- [ユーザーガイド 8.1.15. 入力ジェスチャー](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc67)
+- [ユーザーガイド 9.1.15. 入力ジェスチャー](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#InputGestures)
 
 
 ## 9 最後に
