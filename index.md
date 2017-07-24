@@ -5,7 +5,7 @@ title: NVDA 日本語版ガイドブック
 
 # NVDA 日本語版ガイドブック
 
-第7版 2017年7月23日
+第7版 2017年7月24日
 
 NVDA 日本語チーム 西本卓也
 
@@ -20,7 +20,7 @@ Mozilla Firefox, Gmail, Windows 10 の紹介を加筆し、また NVDA のバー
 
 NVDA とはどんなソフトなのかご紹介します。
 NVDA (Non Visual Desktop Access) は、無料の Windows 用スクリーンリーダーです。
-対応する Windows のバージョンは XP (SP2以降), Vista, 7, 8, 8.1, そして最新の Windows 10 です。
+対応する Windows のバージョンは XP, Vista, 7, 8, 8.1, そして最新の Windows 10 です。
 32ビットにも64ビットにも対応しています。また、Windows 8 以降を
 タッチ操作に対応した機種で使うときには、タッチで NVDA を操作できます。
 
