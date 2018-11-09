@@ -5,7 +5,7 @@ title: NVDA 日本語版ガイドブック
 
 # NVDA 日本語版ガイドブック
 
-第7版 2017年7月24日
+第8版 2018年11月9日
 
 NVDA 日本語チーム 西本卓也
 
@@ -20,7 +20,7 @@ Mozilla Firefox, Gmail, Windows 10 の紹介を加筆し、また NVDA のバー
 
 NVDA とはどんなソフトなのかご紹介します。
 NVDA (Non Visual Desktop Access) は、無料の Windows 用スクリーンリーダーです。
-対応する Windows のバージョンは XP, Vista, 7, 8, 8.1, そして最新の Windows 10 です。
+対応する Windows のバージョンは 7, 8, 8.1, そして最新の Windows 10 です。
 32ビットにも64ビットにも対応しています。また、Windows 8 以降を
 タッチ操作に対応した機種で使うときには、タッチで NVDA を操作できます。
 
@@ -36,8 +36,9 @@ NVDA の改良版を作って配布することもできますが、この場合
 この決まりのために「お金を払った人だけが使える」という仕組みが成り立たないだけなのです。
 
 NVDAの最初のバージョンは2006年4月に公開されました。
-中心的な開発者は当時も現在もオーストラリアの全盲のプログラマー
-Michael Curranさん・James Tehさんの2人です。
+中心的な開発者はオーストラリアの全盲のプログラマー
+Michael Curranさんです。
+同じく全盲のプログラマーであるJames Tehさんも2017年までコア開発者のひとりでした。
 
 彼らは大学でコンピューター科学を学んだ専門家です。その技能を生かして
 「視覚障害者が晴眼者と同じコストでコンピューターを利用できる」という理想のために活動を始めたのです。
@@ -104,7 +105,7 @@ NVDA 日本語版は、NVDA 本家版の新しいバージョンが公開され�
 
 NVDA 日本語版は以下のアドレスから直接ダウンロード可能です。
 
-- [http://i.nvda.jp](http://i.nvda.jp)
+- [https://i.nvda.jp](https://i.nvda.jp)
 
 詳しい情報は NVDA 日本語チームのサイトからご覧ください。
 
@@ -521,7 +522,7 @@ NVDAキーを押したままピリオド（ラップトップ配列）
 ここでご紹介した操作はユーザーガイド 5.5. テキストの確認 で
 説明されています。
 
-- [ユーザーガイド 5.5. テキストの確認](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#ReviewingText)
+- [ユーザーガイド 5.5. テキストの確認](https://www.nvda.jp/nvda2018.3.2jp/ja/userGuide.html#ReviewingText)
 
 また、ブラウズモードになっているときに NVDA+1 で入力ヘルプモードに切り替えると、
 ブラウズモードでのキーの機能を知ることができます。
@@ -550,7 +551,7 @@ Shift と一緒に押すと逆方向に移動します。
 利用できる操作の一覧はユーザーガイド 6.1. 1文字ナビゲーション を
 参照してください。
 
-- [ユーザーガイド 6.1. 1文字ナビゲーション](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc41)
+- [ユーザーガイド 6.1. 1文字ナビゲーション](https://www.nvda.jp/nvda2018.3.2jp/ja/userGuide.html#SingleLetterNavigation)
 
 テーブルの中では下矢印を押すと１行１列、１行２列、１行３列、のように移動し、
 右端の列から折り返して２行１列、のように進みます。
@@ -709,13 +710,6 @@ Firefox は Mozilla （モジラ）という非営利法人によって開発さ
 ここに「Firefox をダウンロード」というリンクがあり、
 セットアップのためのファイルをダウンロードできます。
 
-Windows に標準で備わっている Internet Explorer という Web ブラウザは、
-利用可能なバージョンが Windows の種類によって異なっています。
-しかし Firefox は Windows XP SP2 以降のすべての Windows で利用できます。
-使っている Windows の種類に左右されにくく、
-同じブラウザを使い続けられる、ということが、
-Firefox を使うメリットのひとつです。
-
 Firefox そのものは非常にバージョンアップの早いブラウザで、
 6週間ごとにバージョンがひとつずつ増えています。
 これは、インターネットの新しい技術を開発したり、不具合を修正したりすることを、
@@ -730,6 +724,9 @@ NVDA と Firefox はいろいろな意味で似ているだけでなく、
 Web のアクセシビリティについての最新の技術が、
 NVDA と Firefox の組み合わせにだけ対応している、ということも少なくありません。
 
+2017年から2018年にかけて Firefox は大きなバージョンアップを行い、
+一時的に NVDA で使いにくい状況が起きていました。
+現在は最新の Firefox と NVDA の組み合わせが問題なく使えます。
 
 #### 3.1.2 Firefox のセットアップ
 
@@ -1553,7 +1550,7 @@ Gmail では複数のメールによるやりとりを「スレッド」とい�
 
 #### 3.2.A (資料) 1文字ナビゲーションのまとめ
 
-[ユーザーガイド 6.1. 1文字ナビゲーション](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc41)
+[ユーザーガイド 6.1. 1文字ナビゲーション](https://www.nvda.jp/nvda2018.3.2jp/ja/userGuide.html#SingleLetterNavigation)
 から、Gmail で便利な操作を引用します。
 
 - K リンク
@@ -2087,7 +2084,7 @@ NVDA の「レビューカーソル」は、これらとは独立して動かせ
 
 詳しくはユーザーガイドを参照してください。
 
-- [ユーザーガイド 5.7. マウスカーソルの移動](http://www.nvda.jp/nvda2017.2jp/ja/userGuide.html#toc39)
+- [ユーザーガイド 5.7. マウスカーソルの移動](https://www.nvda.jp/nvda2018.3.2jp/ja/userGuide.html#NavigatingWithTheMouse)
 
 
 #### 4.3.2 既定のアクションの実行
@@ -2154,7 +2151,7 @@ NVDA の「レビューカーソル」は、これらとは独立して動かせ
 
 NVDAメニュー 設定「レビューカーソル」の項目を簡単に紹介します。
 
-- [ユーザーガイド 9.1.8. レビューカーソル設定](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc70)
+- [ユーザーガイド 11.1.10. レビューカーソル](https://www.nvda.jp/nvda2018.3.2jp/ja/userGuide.html#ReviewCursorSettings)
 
 以下の設定は、Windows のフォーカス、文字カーソル、マウスカーソルが移動したときに
 レビューカーソルを移動させるかどうかを指定します。
@@ -2579,7 +2576,7 @@ NVDA のためのさまざまな機能拡張ツール「アドオン」が入手
 
 アドオンの説明はユーザーガイドの下記をお読みください。
 
-- [ユーザーガイド 10.3 アドオンマネージャー](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc90)
+- [ユーザーガイド 12.3 アドオンマネージャー](https://www.nvda.jp/nvda2018.3.2jp/ja/userGuide.html#AddonsManager)
 
 NVDAメニュー ツール「アドオンマネージャー」には、「アドオンを入手」というボタンがあり、
 ここから「NVDAコミュニティによるアドオン紹介」というサイトを開くことができます。
@@ -2651,7 +2648,7 @@ notepad というプロファイルを削除すればもとの状態に戻りま
 
 詳しくはユーザーガイドをお読みください。
 
-- [ユーザーガイド 9.3 設定プロファイル](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#toc79)
+- [ユーザーガイド 11.4 設定プロファイル](https://www.nvda.jp/nvda2018.3.2jp/ja/userGuide.html#ConfigurationProfiles)
 
 
 ### 6.3 入力ジェスチャー
@@ -2675,7 +2672,7 @@ NVDA メニューの設定「入力ジェスチャー」で自由に変更でき
 
 ユーザーガイドの下記の項も参照してください。
 
-- [ユーザーガイド 9.1.15. 入力ジェスチャー](http://www.nvda.jp/nvda2016.2jp/ja/userGuide.html#InputGestures)
+- [ユーザーガイド 11.2.3. 入力ジェスチャー](https://www.nvda.jp/nvda2018.3.2jp/ja/userGuide.html#InputGestures)
 
 
 ### 6.4 タッチモード
