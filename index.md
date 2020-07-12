@@ -13,6 +13,10 @@ NVDA 日本語チーム 西本卓也
 掲載された記事を再構成したものです。
 Mozilla Firefox, Gmail, Windows 10 の紹介を加筆し、また NVDA のバージョンアップにあわせて更新しています。
 
+以下は、今後この文書に追加する予定の話題です。
+
+- [Google Chrome](https://ja.nishimotz.com/chrome)
+- [Zoom](https://ja.nishimotz.com/zoom)
 
 ## 1 NVDA の基本
 
