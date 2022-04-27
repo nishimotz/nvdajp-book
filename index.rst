@@ -538,7 +538,7 @@ Windows のカーソルやマウスポインタは一切移動しません。
 説明されています。
 
 -  `ユーザーガイド 5.5.
-   テキストの確認 <https://www.nvda.jp/nvda2022.3.5jp/ja/userGuide.html#ReviewingText>`__
+   テキストの確認 <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#ReviewingText>`__
 
 また、ブラウズモードになっているときに NVDA+1
 で入力ヘルプモードに切り替えると、
@@ -570,7 +570,7 @@ Shift と一緒に押すと逆方向に移動します。
 参照してください。
 
 -  `ユーザーガイド 6.1.
-   1文字ナビゲーション <https://www.nvda.jp/nvda2022.3.5jp/ja/userGuide.html#SingleLetterNavigation>`__
+   1文字ナビゲーション <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#SingleLetterNavigation>`__
 
 テーブルの中では下矢印を押すと１行１列、１行２列、１行３列、のように移動し、
 右端の列から折り返して２行１列、のように進みます。
@@ -1595,7 +1595,7 @@ Esc を押して「ブラウズモード」にします。
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 `ユーザーガイド 6.1.
-1文字ナビゲーション <https://www.nvda.jp/nvda2022.3.5jp/ja/userGuide.html#SingleLetterNavigation>`__
+1文字ナビゲーション <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#SingleLetterNavigation>`__
 から、Gmail で便利な操作を引用します。
 
 -  K リンク
@@ -2186,7 +2186,7 @@ NVDA
 詳しくはユーザーガイドを参照してください。
 
 -  `ユーザーガイド 5.7.
-   マウスカーソルの移動 <https://www.nvda.jp/nvda2022.3.5jp/ja/userGuide.html#NavigatingWithTheMouse>`__
+   マウスカーソルの移動 <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#NavigatingWithTheMouse>`__
 
 既定のアクションの実行
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -2254,7 +2254,7 @@ NVDA
 NVDAメニュー 設定「レビューカーソル」の項目を簡単に紹介します。
 
 -  `ユーザーガイド 11.1.10.
-   レビューカーソル <https://www.nvda.jp/nvda2022.3.5jp/ja/userGuide.html#ReviewCursorSettings>`__
+   レビューカーソル <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#ReviewCursorSettings>`__
 
 以下の設定は、Windows
 のフォーカス、文字カーソル、マウスカーソルが移動したときに
@@ -2718,7 +2718,7 @@ NVDA のためのさまざまな機能拡張ツール「アドオン」が入手
 アドオンの説明はユーザーガイドの下記をお読みください。
 
 -  `ユーザーガイド 12.3
-   アドオンマネージャー <https://www.nvda.jp/nvda2022.3.5jp/ja/userGuide.html#AddonsManager>`__
+   アドオンマネージャー <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#AddonsManager>`__
 
 NVDAメニュー
 ツール「アドオンマネージャー」には、「アドオンを入手」というボタンがあり、
@@ -2795,7 +2795,7 @@ notepad というプロファイルを削除すればもとの状態に戻りま
 詳しくはユーザーガイドをお読みください。
 
 -  `ユーザーガイド 11.4
-   設定プロファイル <https://www.nvda.jp/nvda2022.3.5jp/ja/userGuide.html#ConfigurationProfiles>`__
+   設定プロファイル <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#ConfigurationProfiles>`__
 
 入力ジェスチャー
 ~~~~~~~~~~~~~~~~~~~~
@@ -2821,7 +2821,7 @@ NVDA の操作のための機能と「入力ジェスチャー」の対応は、
 ユーザーガイドの下記の項も参照してください。
 
 -  `ユーザーガイド 11.2.3.
-   入力ジェスチャー <https://www.nvda.jp/nvda2022.3.5jp/ja/userGuide.html#InputGestures>`__
+   入力ジェスチャー <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#InputGestures>`__
 
 タッチモード
 ~~~~~~~~~~~~~~~~
