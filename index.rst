@@ -2253,7 +2253,7 @@ NVDA
 
 NVDAメニュー 設定「レビューカーソル」の項目を簡単に紹介します。
 
--  `ユーザーガイド 11.1.10.
+-  `ユーザーガイド 12.1.11.
    レビューカーソル <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#ReviewCursorSettings>`__
 
 以下の設定は、Windows
@@ -2717,7 +2717,7 @@ NVDA のためのさまざまな機能拡張ツール「アドオン」が入手
 
 アドオンの説明はユーザーガイドの下記をお読みください。
 
--  `ユーザーガイド 12.3
+-  `ユーザーガイド 13.5
    アドオンマネージャー <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#AddonsManager>`__
 
 NVDAメニュー
@@ -2794,7 +2794,7 @@ notepad というプロファイルを削除すればもとの状態に戻りま
 
 詳しくはユーザーガイドをお読みください。
 
--  `ユーザーガイド 11.4
+-  `ユーザーガイド 12.4
    設定プロファイル <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#ConfigurationProfiles>`__
 
 入力ジェスチャー
@@ -2820,7 +2820,7 @@ NVDA の操作のための機能と「入力ジェスチャー」の対応は、
 
 ユーザーガイドの下記の項も参照してください。
 
--  `ユーザーガイド 11.2.3.
+-  `ユーザーガイド 12.2.3.
    入力ジェスチャー <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#InputGestures>`__
 
 タッチモード
