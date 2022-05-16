@@ -3,6 +3,3 @@ server: true
 markdown: kramdown
 
 theme: jekyll-theme-minimal
-
-gems:
-  - jekyll-numbered-headings
