@@ -1,4 +1,4 @@
-Windows 10 の操作と設定の基本
+Windows の操作と設定の基本
 ------------------------------
 
 新しい Windows と NVDA
@@ -17,9 +17,6 @@ UI オートメーションとよばれる新しい技術には、NVDA よりも
 NVDA は従来の API に対応したスクリーンリーダーとしての高い性能を保ちながら、
 新しい API に対応したスクリーンリーダーとしても開発が続けられています。
 
-Windows キー
-~~~~~~~~~~~~~~~~
-
 この章では Windows 10 バージョン 1703 に基づいて Windows
 の操作と設定の基本を紹介します。
 
@@ -30,6 +27,9 @@ Windows キー
 -  `マイクロソフト製品のアクセシビリティ機能 <http://www.microsoft.com/ja-jp/enable/products/default.aspx>`__
 -  `音声とキーボード操作による Windows
    基本操作ガイド <https://www.microsoft.com/ja-jp/enable/products/win10v.aspx>`__
+
+Windows キー
+~~~~~~~~~~~~~~~~
 
 まず Windows キーの機能を整理します。
 
