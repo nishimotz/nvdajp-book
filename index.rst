@@ -10,7 +10,7 @@ NVDA 日本語版ガイドブック
 
 NVDA 日本語チーム 西本卓也
 
-この文書は メールマガジン BLPC パソコンメモ
+「NVDA 日本語版ガイドブック」は メールマガジン BLPC パソコンメモ
 に2013年12月から2014年5月にかけて 掲載された記事を再構成したものです。
 Mozilla Firefox, Gmail, Windows 10/11 の紹介を加筆し、また NVDA
 のバージョンアップにあわせて更新しています。
@@ -27,4 +27,13 @@ Mozilla Firefox, Gmail, Windows 10/11 の紹介を加筆し、また NVDA
    :numbered:
    :maxdepth: 2
 
-   main.rst
+   basic.rst
+   browsemode.rst
+   firefox.rst
+   objectnavigation.rst
+   windows.rst
+   advanced.rst
+   links.rst
+   thanks.rst
+
+

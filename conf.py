@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'nvdajp-book'
+project = 'NVDA 日本語版'
 copyright = '2013-2022, Takuya Nishimoto'
 author = 'Takuya Nishimoto'
 
