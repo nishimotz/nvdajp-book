@@ -15,6 +15,10 @@ Mozilla Firefox, Gmail, Windows 10/11 の紹介を加筆し、また NVDA
 -   <https://nvdajp-book.readthedocs.io/>
 -   <https://nishimotz.github.io/nvdajp-book/>
 
+ご意見などは下記 GitHub issues でお願いします。
+
+- https://github.com/nishimotz/nvdajp-book/issues
+
 以下は、今後この文書に追加する予定の話題です。
 
 -   [Google Chrome](https://ja.nishimotz.com/chrome)
