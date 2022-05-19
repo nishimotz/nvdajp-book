@@ -6,7 +6,7 @@
 NVDA 日本語版ガイドブック
 =========================
 
-第10版（作業中） 2022年5月19日
+第10版 2022年5月19日
 
 NVDA 日本語チーム 西本卓也
 
@@ -15,10 +15,9 @@ NVDA 日本語チーム 西本卓也
 Mozilla Firefox, Gmail, Windows 10/11 の紹介を加筆し、また NVDA
 のバージョンアップにあわせて更新しています。
 
-このドキュメントは以下の2カ所で公開しています。
+このドキュメントは以下で公開しています。
 
 - https://nvdajp-book.readthedocs.io/
-- https://nishimotz.github.io/nvdajp-book/
 
 ご意見などは下記 GitHub issues でお願いします。
 
