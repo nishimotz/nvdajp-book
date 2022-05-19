@@ -6,7 +6,7 @@
 NVDA 日本語版ガイドブック
 =========================
 
-第10版（作業中） 2022年5月16日
+第10版（作業中） 2022年5月19日
 
 NVDA 日本語チーム 西本卓也
 
@@ -33,7 +33,8 @@ Mozilla Firefox, Gmail, Windows 10/11 の紹介を加筆し、また NVDA
 
    basic.rst
    browsemode.rst
-   firefox.rst
+   webbrowser.rst
+   gmail.rst
    objectnavigation.rst
    windows.rst
    advanced.rst
