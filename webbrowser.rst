@@ -15,6 +15,11 @@ Microsoft Edge
 
 Microsoft Edge は Microsoft が推奨する現在の Windows の既定のブラウザです。
 
+Microsoft Edge を起動するには、 Windows キーを押して、
+半角全角キーを押して日本語入力を「変換停止」の状態にして、
+アルファベットで edge と入力して Enter キーを押します。
+
+
 Mozilla Firefox
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
