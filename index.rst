@@ -6,7 +6,7 @@
 NVDA 日本語版ガイドブック
 =========================
 
-第10版 2022年5月19日
+第11版(作業中) 2025年4月2日
 
 NVDA 日本語チーム 西本卓也
 
@@ -41,3 +41,10 @@ Mozilla Firefox, Gmail, Windows 10/11 の紹介を加筆し、また NVDA
    thanks.rst
 
 
+今後追加予定の話題
+-------------------
+
+以下は、今後この文書に追加する予定の話題です。
+
+- `Google Chrome <https://ja.nishimotz.com/chrome>`_
+- `Zoom <https://ja.nishimotz.com/zoom>`_
