@@ -9,8 +9,8 @@ NVDA のためのさまざまな機能拡張ツール「アドオン」が入手
 アドオンの説明はユーザーガイドの下記をお読みください。
 (注: NVDA のバージョンによっては名称が「アドオンストア」に変更されています)
 
--  `ユーザーガイド 13.5
-   アドオンストア <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#AddonsManager>`__
+-  `ユーザーガイド 13.
+   アドオンとアドオンストア <https://www.nvda.jp/nvda2024.4.2jp/ja/userGuide.html#AddonsManager>`__
 
 NVDAメニュー
 ツール「アドオンストア」では、NVDA 内で直接アドオンを検索、インストール、更新することができます。
@@ -29,6 +29,9 @@ NVDA の終了オプションで「アドオンを無効にして再起動」が
 ~~~~~~~~~~~~~~~~~~~~~~
 
 視力のあるユーザーは、NVDA の組み込み機能である「ビジュアルハイライト」を利用すると、フォーカス位置やナビゲーターオブジェクト、レビューカーソルの位置を視覚的に確認しやすくなります。
+
+-  `ユーザーガイド 9.1.
+   ビジュアルハイライト <https://www.nvda.jp/nvda2024.4.2jp/ja/userGuide.html#VisionFocusHighlight>`__
 
 この機能は NVDA 設定ダイアログの「ビジョン」カテゴリから有効にできます。
 
@@ -78,7 +81,7 @@ notepad というプロファイルを削除すればもとの状態に戻りま
 詳しくはユーザーガイドをお読みください。
 
 -  `ユーザーガイド 12.4
-   設定プロファイル <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#ConfigurationProfiles>`__
+   設定プロファイル <https://www.nvda.jp/nvda2024.4.2jp/ja/userGuide.html#ConfigurationProfiles>`__
 
 入力ジェスチャー
 ~~~~~~~~~~~~~~~~~~~~
@@ -104,7 +107,7 @@ NVDA の操作のための機能と「入力ジェスチャー」の対応は、
 ユーザーガイドの下記の項も参照してください。
 
 -  `ユーザーガイド 12.2.3.
-   入力ジェスチャー <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#InputGestures>`__
+   入力ジェスチャー <https://www.nvda.jp/nvda2024.4.2jp/ja/userGuide.html#InputGestures>`__
 
 タッチモード
 ~~~~~~~~~~~~~~~~

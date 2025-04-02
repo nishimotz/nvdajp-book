@@ -170,7 +170,7 @@ Windows のテキストカーソルやマウスカーソルは一切移動しま
 説明されています。
 
 -  `ユーザーガイド 5.5.
-   テキストの確認 <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#ReviewingText>`__
+   テキストの確認 <https://www.nvda.jp/nvda2024.4.2jp/ja/userGuide.html#ReviewingText>`__
 
 また、ブラウズモードになっているときに NVDA+1
 で入力ヘルプモードに切り替えると、
@@ -202,7 +202,7 @@ Shift と一緒に押すと逆方向に移動します。
 参照してください。
 
 -  `ユーザーガイド 6.1.
-   1文字ナビゲーション <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#SingleLetterNavigation>`__
+   1文字ナビゲーション <https://www.nvda.jp/nvda2024.4.2jp/ja/userGuide.html#SingleLetterNavigation>`__
 
 テーブルの中では下矢印を押すと１行１列、１行２列、１行３列、のように移動し、
 右端の列から折り返して２行１列、のように進みます。

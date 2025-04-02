@@ -476,7 +476,7 @@ Esc を押して「ブラウズモード」にします。
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 `ユーザーガイド 6.1.
-1文字ナビゲーション <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#SingleLetterNavigation>`__
+1文字ナビゲーション <https://www.nvda.jp/nvda2024.4.2jp/ja/userGuide.html#SingleLetterNavigation>`__
 から、Gmail で便利な操作を引用します。
 
 -  K リンク

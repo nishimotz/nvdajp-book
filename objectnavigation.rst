@@ -336,7 +336,7 @@ NVDA
 詳しくはユーザーガイドを参照してください。
 
 -  `ユーザーガイド 5.7.
-   マウスカーソルの移動 <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#NavigatingWithTheMouse>`__
+   マウスカーソルの移動 <https://www.nvda.jp/nvda2024.4.2jp/ja/userGuide.html#NavigatingWithTheMouse>`__
 
 既定のアクションの実行
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -404,7 +404,7 @@ NVDA
 NVDAメニュー 設定「レビューカーソル」の項目を簡単に紹介します。
 
 -  `ユーザーガイド 12.1.11.
-   レビューカーソル <https://www.nvda.jp/nvda2021.3.5jp/ja/userGuide.html#ReviewCursorSettings>`__
+   レビューカーソル <https://www.nvda.jp/nvda2024.4.2jp/ja/userGuide.html#ReviewCursorSettings>`__
 
 以下の設定は、Windows
 のフォーカス、文字カーソル、マウスカーソルが移動したときに
