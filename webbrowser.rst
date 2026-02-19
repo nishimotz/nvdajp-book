@@ -6,6 +6,19 @@ Microsoft Edge
 
 ブラウズモードの基本の説明を踏まえて、Webブラウザの使い方を紹介します。
 
+このセクションは Windows 11 と `Microsoft Edge <https://support.microsoft.com/ja-jp/microsoft-edge>`__ で確認した操作をご紹介しています。
+
+紹介している操作は `Google Chrome <https://ja.nishimotz.com/chrome>`__ でもだいたい同じです。
+
+このセクションは Mozilla Firefox の解説から改訂を行っている途中です。
+ブラウザ名などの表記が実際と異なる場合があります。
+
+Microsoft Edge は Microsoft が推奨する現在の Windows の既定のブラウザです。
+
+Microsoft Edge を起動するには、 Windows キーを押して、
+半角全角キーを押して日本語入力を「変換停止」の状態にして、
+アルファベットで edge と入力して Enter キーを押します。
+
 Webページを読むときのコツ（Tabより1文字ナビ）
 --------------------------------------------
 
@@ -39,19 +52,6 @@ Tabを押しすぎてページ本文ではなくブラウザ操作UI（アドレ
 それ以上移動できない始端/終端（境界）に到達した判断材料として使われることがあります。
 
 （ここに注を入れたい：無反応はフリーズの可能性もあるため、NVDA+Tab等で状態確認する、など）
-
-このセクションは Windows 11 と `Microsoft Edge <https://support.microsoft.com/ja-jp/microsoft-edge>`__ で確認した操作をご紹介しています。
-
-紹介している操作は `Google Chrome <https://ja.nishimotz.com/chrome>`__ でもだいたい同じです。
-
-このセクションは Mozilla Firefox の解説から改訂を行っている途中です。
-ブラウザ名などの表記が実際と異なる場合があります。
-
-Microsoft Edge は Microsoft が推奨する現在の Windows の既定のブラウザです。
-
-Microsoft Edge を起動するには、 Windows キーを押して、
-半角全角キーを押して日本語入力を「変換停止」の状態にして、
-アルファベットで edge と入力して Enter キーを押します。
 
 
 Mozilla Firefox
