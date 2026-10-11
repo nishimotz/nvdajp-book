@@ -17,6 +17,6 @@
 -  `NVDAチートシート <https://github.com/nvdajp/cheatsheet>`__
 -  `freeeアクセシビリティー・ガイドライン「NVDAを用いたチェックの実施方法」 <https://a11y-guidelines.freee.co.jp/explanations/screen-reader-check-nvda.html>`__
 
-「ブラウズモードに関係する設定」の節で紹介した「読み上げで確認しやすい設定」は、
+「ブラウズモード」の章の「読み上げだけで状況を確実にとらえる設定」は、
 この検証の手順書を運用する中で培われた知見を参考にしています。
 
