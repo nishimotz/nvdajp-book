@@ -381,7 +381,7 @@ NVDA には、こうした階層の関係をいったん横に並べて、
 詳しくはユーザーガイドを参照してください。
 
 -  `ユーザーガイド 5.7.
-   マウスカーソルの移動 <https://www.nvda.jp/nvda2024.4.2jp/ja/userGuide.html#NavigatingWithTheMouse>`__
+   マウスポインターの移動 <https://www.nvda.jp/nvda2026.2jp/ja/userGuide.html#NavigatingWithTheMouse>`__
 
 既定のアクションの実行
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -449,7 +449,7 @@ NVDA には、こうした階層の関係をいったん横に並べて、
 NVDAメニュー 設定「レビューカーソル」の項目を簡単に紹介します。
 
 -  `ユーザーガイド 12.1.11.
-   レビューカーソル <https://www.nvda.jp/nvda2024.4.2jp/ja/userGuide.html#ReviewCursorSettings>`__
+   レビューカーソル <https://www.nvda.jp/nvda2026.2jp/ja/userGuide.html#ReviewCursorSettings>`__
 
 以下の設定は、Windows
 のフォーカス、文字カーソル、マウスカーソルが移動したときに
